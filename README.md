@@ -4,6 +4,8 @@ Several hours in the dynamometer, lots of gallons of gasoline later, the results
 With a wifi connection, we can control several karts at the same time to reduce their speed, in case of a yellow or red flag, for example.
 As we are using a modified version of Speeduino, I'm keeping posted the changes in this branch named Kartduino, acording with the <a href=https://github.com/zfkart/kartduino/blob/master/LICENSE>GNU GPLv2 License</a>. It's not intended to be used without the Kartduino hardware, which is also available on this repository.
 
+More info available at <a href=https://www.revlimit.com.br>
+
 ## Speeduino
 The Speeduino project is a flexible, fully featured Engine Management Systems (EMS aka ECU) based on the low cost and open source Arduino platform. It provides the hardware, firmware and software components that make up an engine management system, all provided under open licenses. With over 1000 installations, Speeduino has matured into a product that meets the needs of the hobbyist and enthusiast community without driving prices to the levels of traditional aftermarket ECUs.
 
